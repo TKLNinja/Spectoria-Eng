@@ -1,0 +1,5989 @@
+[
+  null,
+  {
+    "id": 1,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 301
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 86
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "01たまこうもり",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 51,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 1,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 30,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 2
+      }
+    ],
+    "gold": 50,
+    "name": "Tama Bat",
+    "note": "<desc1:A bat demon with a round body>\n<desc2:Licks with it's large tongue>",
+    "params": [
+      250,
+      20,
+      20,
+      15,
+      20,
+      10,
+      35,
+      30
+    ]
+  },
+  {
+    "id": 2,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 302
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 101
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 81
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "02うさみみピクシー",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 54,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 1,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 30,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1.5
+      }
+    ],
+    "gold": 50,
+    "name": "Usami Pixie",
+    "note": "<desc1:A pixie who loves rabbit ears>\n<desc2:Wishes the world was rabbits>",
+    "params": [
+      210,
+      20,
+      15,
+      10,
+      20,
+      30,
+      29,
+      30
+    ]
+  },
+  {
+    "id": 3,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 303
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 71
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 155
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "03セメントスライム",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 57,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 7,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 50,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 100,
+    "name": "Cement Slime",
+    "note": "<desc1:Slime monster in cement form.>\n<desc2:Can change from soft to hard>",
+    "params": [
+      500,
+      50,
+      22,
+      20,
+      25,
+      20,
+      22,
+      40
+    ]
+  },
+  {
+    "id": 4,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 6,
+        "skillId": 304
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 56
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 156
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 157
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "04テンタジェル",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 60,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 41,
+        "denominator": 15
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 55,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "gold": 120,
+    "name": "Tentagel",
+    "note": "<desc1:Synthetic slime with tentacles>\n<desc2:Tentacles have poison>",
+    "params": [
+      580,
+      70,
+      20,
+      15,
+      27,
+      20,
+      33,
+      40
+    ]
+  },
+  {
+    "id": 5,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 305
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 152
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 158
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "05岩石魔人",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 63,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 1,
+        "denominator": 2
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 120,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "gold": 300,
+    "name": "Rock Devil",
+    "note": "<desc1:A powerful demon made of rock>\n<desc2:Can create countless arms>",
+    "params": [
+      1400,
+      100,
+      25,
+      25,
+      10,
+      5,
+      15,
+      55
+    ]
+  },
+  {
+    "id": 6,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 71
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 159
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 157
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 306
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 74
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "06ヌマヌシ",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 23,
+        "denominator": 1
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 1000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      },
+      {
+        "code": 63,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "gold": 2000,
+    "name": "Numanushi",
+    "note": "<desc1:A large swamp demon made of cement>\n<desc2:The swamp is bottemless...>",
+    "params": [
+      6500,
+      500,
+      50,
+      22,
+      50,
+      20,
+      40,
+      50
+    ]
+  },
+  {
+    "id": 7,
+    "actions": [],
+    "battlerHue": 0,
+    "battlerName": "01たまこうもり",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "Tama Bat",
+    "note": "チュートリアル\n<book:no>",
+    "params": [
+      10000,
+      0,
+      30,
+      15,
+      30,
+      30,
+      30,
+      30
+    ]
+  },
+  {
+    "id": 8,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 307
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 164
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 165
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 51
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "07ワライ族",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 65,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 7,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 150,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 170,
+    "name": "Wallai Tribe",
+    "note": "<desc1:A strange tribe that's always laughing>\n<desc2:Carries a big brush>",
+    "params": [
+      650,
+      200,
+      28,
+      18,
+      32,
+      15,
+      44,
+      50
+    ]
+  },
+  {
+    "id": 9,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 308
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 61
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 166
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 167
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "08ケタケタケ",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 67,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 45,
+        "denominator": 15
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 150,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 2
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1.5
+      }
+    ],
+    "gold": 160,
+    "name": "Kektake Mushroom",
+    "note": "<desc1:A huge mushroom demon>\n<desc2:Has various status spores>",
+    "params": [
+      700,
+      100,
+      25,
+      22,
+      33,
+      20,
+      25,
+      55
+    ]
+  },
+  {
+    "id": 10,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 309
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 169
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 172
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "09ワープモール",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 69,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 2,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 220,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "gold": 190,
+    "name": "Warp Mole",
+    "note": "<desc1:Demons capable of making warping holes>\n<desc2:It's right drill is it's favourite>",
+    "params": [
+      840,
+      150,
+      35,
+      25,
+      15,
+      22,
+      61,
+      60
+    ]
+  },
+  {
+    "id": 11,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 310
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 6,
+        "skillId": 182
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 180
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 181
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 135
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "10おっぱいサボテン",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 71,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 43,
+        "denominator": 15
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 450,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.3
+      }
+    ],
+    "gold": 500,
+    "name": "Busty Cactus",
+    "note": "<desc1:Cacti with huge boobs for some reason>\n<desc2:Don't get caught!>",
+    "params": [
+      1400,
+      150,
+      45,
+      30,
+      20,
+      30,
+      40,
+      65
+    ]
+  },
+  {
+    "id": 12,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 311
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 84
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 153
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 183
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "11百手いもむし",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 73,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 2,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 450,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 450,
+    "name": "Centapillar",
+    "note": "<desc1:A caterpillar demon with countless arms>\n<desc2:It's body is soft like a bed>",
+    "params": [
+      1500,
+      150,
+      47,
+      25,
+      35,
+      25,
+      55,
+      65
+    ]
+  },
+  {
+    "id": 13,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 1,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 312
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 166
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 167
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 188
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 74
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 186
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 72
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "12アルラウネ",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 23,
+        "denominator": 1
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 3000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      },
+      {
+        "code": 63,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "gold": 3000,
+    "name": "Alraune",
+    "note": "<desc1:A devious plant demon>\n<desc2:A master of changing victim's state.>",
+    "params": [
+      11000,
+      999,
+      50,
+      40,
+      45,
+      35,
+      65,
+      70
+    ]
+  },
+  {
+    "id": 14,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 313
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 191
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 190
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 183
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "13ローションタンク",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 75,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 46,
+        "denominator": 15
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 700,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 2
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 700,
+    "name": "Lotion Tank",
+    "note": "<desc1:Tank with plenty of lotion>\n<desc2:Controls powerful machine hands>",
+    "params": [
+      1600,
+      150,
+      45,
+      45,
+      20,
+      25,
+      30,
+      70
+    ]
+  },
+  {
+    "id": 15,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 314
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 52
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 64
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 56
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "14メカガクシャ",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 77,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 3,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 320,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "gold": 220,
+    "name": "Mecha Scribe",
+    "note": "<desc1:A robot who studies constantly>\n<desc2:Can use various magic>",
+    "params": [
+      850,
+      300,
+      10,
+      20,
+      50,
+      45,
+      80,
+      70
+    ]
+  },
+  {
+    "id": 16,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 315
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 193
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 59
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 194
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "15フリーズボックス",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 79,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 32,
+        "denominator": 15
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 850,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 450,
+    "name": "Freezie Box",
+    "note": "<desc1:A demon made from a fridge>\n<desc2:Be careful not to fall asleep near it!>",
+    "params": [
+      1800,
+      300,
+      40,
+      45,
+      45,
+      40,
+      45,
+      75
+    ]
+  },
+  {
+    "id": 17,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 316
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 12
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 195
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "16カラクリクワガタ",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 81,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 3,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 450,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      }
+    ],
+    "gold": 450,
+    "name": "Karakuri Beetle",
+    "note": "<desc1:A machine demon that looks like a beetle>\n<desc2:Can transform into a toilet>",
+    "params": [
+      1000,
+      300,
+      50,
+      45,
+      10,
+      15,
+      100,
+      75
+    ]
+  },
+  {
+    "id": 18,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 317
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 89
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 183
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 102
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "17洗浄ロイド",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 83,
+        "denominator": 1
+      },
+      {
+        "kind": 1,
+        "dataId": 3,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 1000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 450,
+    "name": "Cleaning Doll",
+    "note": "<desc1:A machine made to wash people>\n<desc2:Usually in a bad mood>",
+    "params": [
+      2200,
+      500,
+      40,
+      40,
+      50,
+      40,
+      85,
+      75
+    ]
+  },
+  {
+    "id": 19,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 3,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 195
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 190
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 4,
+        "skillId": 196
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 84
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18ギガンティックル",
+    "dropItems": [
+      {
+        "kind": 1,
+        "dataId": 23,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 20000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.5
+      },
+      {
+        "code": 63,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "gold": 50000,
+    "name": "Gigantile",
+    "note": "<desc1:Huge battle machine.>\n<desc2:It attacks with various lasers.>",
+    "params": [
+      10000,
+      999,
+      55,
+      50,
+      55,
+      35,
+      60,
+      100
+    ]
+  },
+  {
+    "id": 20,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 318
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 187
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 5,
+        "conditionType": 1,
+        "rating": 4,
+        "skillId": 122
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18ライトアーム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 2000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 2
+      }
+    ],
+    "gold": 2000,
+    "name": "Right Arm",
+    "note": "<desc1:Gigantile's right arm>\n<desc2:Uses support moves>",
+    "params": [
+      2000,
+      300,
+      40,
+      45,
+      10,
+      35,
+      100,
+      60
+    ]
+  },
+  {
+    "id": 21,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 318
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 183
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 5,
+        "conditionType": 1,
+        "rating": 4,
+        "skillId": 124
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18レフトアーム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 2000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 2
+      }
+    ],
+    "gold": 2000,
+    "name": "Left Arm",
+    "note": "<desc1:Gigantile's left arm>\n<desc2:Uses defense moves>",
+    "params": [
+      2000,
+      300,
+      40,
+      45,
+      10,
+      35,
+      100,
+      60
+    ]
+  },
+  {
+    "id": 22,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 1
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      100,
+      0,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  {
+    "id": 23,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 301
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "01たまこうもり",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Occasional bat",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 24,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 302
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "02うさみみピクシー",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Usami Pixie",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 25,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 303
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "03セメントスライム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Cement slime",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 26,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 304
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "04テンタジェル",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Tentagel",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 27,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 305
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "05岩石魔人",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Rock devil",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 28,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 306
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "06ヌマヌシ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Numonyushi",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 29,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 307
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "07ワライ族",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Wallai tribe",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 30,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 308
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "08ケタケタケ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Ketaketake",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 31,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 309
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "09ワープモール",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Warp Mall",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 32,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 310
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "10おっぱいサボテン",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Breasts Cactus",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 33,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 311
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "11百手いもむし",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Hundred caterpillar",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 34,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 319
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "12アルラウネ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Arlaune",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 35,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 313
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "13ローションタンク",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Lotion tank",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 36,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 314
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "14メカガクシャ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Mecha gakusha",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 37,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 315
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "15フリーズボックス",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Freeze Box",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 38,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 316
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "16カラクリクワガタ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Karakuri Quaggata",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 39,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 317
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "17洗浄ロイド",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Cleaning Lloyd",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 40,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 318
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18ギガンティックル",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Gigantile",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 41,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 318
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18ライトアーム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Right Arm",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 42,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 318
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18レフトアーム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 33,
+        "value": 1
+      }
+    ],
+    "gold": 0,
+    "name": "Left Arm",
+    "note": "<book:no>",
+    "params": [
+      999999,
+      9999,
+      999,
+      999,
+      999,
+      999,
+      999,
+      999
+    ]
+  },
+  {
+    "id": 43,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 72
+      },
+      {
+        "conditionParam1": 0.5,
+        "conditionParam2": 1,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 74
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 4,
+        "skillId": 75
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 157
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 4,
+        "skillId": 159
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 4,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 306
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 4,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 150
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "06ヌマヌシ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      }
+    ],
+    "exp": 10000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.01
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.2
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.5
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0
+      },
+      {
+        "code": 63,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 10000,
+    "name": "Numonyushi EX",
+    "note": "<desc1:ヌマヌシの強化体。>\n<desc2:土の全体魔法が危険極まりない。>",
+    "params": [
+      35000,
+      9999,
+      80,
+      60,
+      80,
+      50,
+      90,
+      80
+    ]
+  },
+  {
+    "id": 44,
+    "actions": [
+      {
+        "conditionParam1": 2,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 62
+      },
+      {
+        "conditionParam1": 2,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 64
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 166
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 167
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 188
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 3,
+        "conditionType": 1,
+        "rating": 8,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 59
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 57
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 186
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 180
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 150
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "12アルラウネ",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      }
+    ],
+    "exp": 10000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.01
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.01
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.3
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.3
+      },
+      {
+        "code": 63,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 10000,
+    "name": "Alleeune EX",
+    "note": "<desc1:アルラウネの強化体。>\n<desc2:氷と雷の魔法を習得している。>",
+    "params": [
+      30000,
+      9999,
+      70,
+      55,
+      85,
+      60,
+      110,
+      90
+    ]
+  },
+  {
+    "id": 45,
+    "actions": [
+      {
+        "conditionParam1": 1,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 1,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 195
+      },
+      {
+        "conditionParam1": 2,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 2,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 163
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 84
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 160
+      },
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 190
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 196
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 5,
+        "skillId": 192
+      },
+      {
+        "conditionParam1": 37,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 8,
+        "skillId": 85
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18ギガンティックル",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 10000,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 1.01
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.3
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 32,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 0.3
+      },
+      {
+        "code": 63,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 61,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "gold": 10000,
+    "name": "Gigantic EX",
+    "note": "<desc1:ギガンティックルの強化体。>\n<desc2:チャージ後の一斉攻撃に注意！>",
+    "params": [
+      25000,
+      9999,
+      70,
+      80,
+      80,
+      60,
+      75,
+      100
+    ]
+  },
+  {
+    "id": 46,
+    "actions": [
+      {
+        "conditionParam1": 1,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 9,
+        "skillId": 318
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 187
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 9,
+        "skillId": 122
+      },
+      {
+        "conditionParam1": 37,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 6,
+        "skillId": 85
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 9,
+        "skillId": 102
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18ライトアーム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 2
+      }
+    ],
+    "gold": 0,
+    "name": "Light arm EX",
+    "note": "<desc1:ギガンティックルＥＸの右腕。>\n<desc2:攻撃のサポートをする。>",
+    "params": [
+      5000,
+      500,
+      60,
+      50,
+      30,
+      35,
+      120,
+      70
+    ]
+  },
+  {
+    "id": 47,
+    "actions": [
+      {
+        "conditionParam1": 3,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 9,
+        "skillId": 318
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 150
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 183
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 9,
+        "skillId": 124
+      },
+      {
+        "conditionParam1": 37,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 6,
+        "skillId": 85
+      },
+      {
+        "conditionParam1": 4,
+        "conditionParam2": 6,
+        "conditionType": 1,
+        "rating": 9,
+        "skillId": 105
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "18レフトアーム",
+    "dropItems": [
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 3
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 32,
+        "value": 1.5
+      },
+      {
+        "code": 13,
+        "dataId": 33,
+        "value": 2
+      }
+    ],
+    "gold": 0,
+    "name": "Left arm EX",
+    "note": "<desc1:ギガンティックルＥＸの左腕。>\n<desc2:防御のサポートをする。>",
+    "params": [
+      5000,
+      500,
+      60,
+      50,
+      30,
+      35,
+      120,
+      70
+    ]
+  }
+]
